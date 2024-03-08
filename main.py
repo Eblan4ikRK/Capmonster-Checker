@@ -21,8 +21,8 @@ banner = """
 print(banner)
 # CONFIGURAÇÕES
 settings = {
-    "webhook_url":"seu_webhook_aqui", # COLOQUE SEU WEBHOOK AQUI
-    "threads":5 # THREADS
+    "webhook_url":"https://discord.com/api/webhooks/1199013907214389491/T2Kd4nCj59FpC2AS9j-wXBc-D_DpcngnUS2OQVpLzI_eHWNFtGH9L5Ga5Czt79ATVC6Z", # COLOQUE SEU WEBHOOK AQUI
+    "threads":500 # THREADS
 }
 
 class Checker:
